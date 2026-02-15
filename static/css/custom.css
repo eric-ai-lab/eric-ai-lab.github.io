@@ -118,3 +118,10 @@ ul li > span {
 ul li > span.title {
   font-weight: normal;
 }
+
+/*css for profile images - ensure circular display*/
+.rounded.img-fluid {
+  border-radius: 50% !important;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+}
