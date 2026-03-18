@@ -10,8 +10,8 @@ This website is now configured for automatic deployment to GitHub Pages using st
 
 1. **Fork or clone this repository**
    ```bash
-   git clone https://github.com/your-username/eric-lab-website.git
-   cd eric-lab-website
+   git clone https://github.com/eric-ai-lab/eric-ai-lab.github.io.git
+   cd eric-ai-lab.github.io
    ```
 
 2. **Enable GitHub Pages**
@@ -22,7 +22,7 @@ This website is now configured for automatic deployment to GitHub Pages using st
 
 3. **Your site will be available at:**
    ```
-   https://your-username.github.io/eric-lab-website
+   https://eric-ai-lab.github.io
    ```
 
 ### File Structure
